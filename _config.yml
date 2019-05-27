@@ -77,4 +77,4 @@ exclude : [
   "docker-compose.yml",
   ]
 
-remote_theme : nielsenramon/chalk
+remote_theme : sproogen/modern-resume-theme
